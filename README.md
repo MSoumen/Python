@@ -1,0 +1,1 @@
+A repo to save all my Python codes i practiced.
